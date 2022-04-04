@@ -11,10 +11,10 @@
 
             <div class="col-md-4">
                 <p>
-                    <strong> Address: </strong> DANDENONG NORTH VIC 3175 <br>
-                    <strong> Email: </strong> <a href="mailto:brianix54@gmail.com">brianix54@gmail.com</a> <br>
-                    <strong> Phone: </strong><a href="tel:0452653600">0452 653 600</a><br>
-                    <strong> ABN: </strong> 74 485 201 082 <br>
+                    <strong> Address: </strong> Sankhamool, Kathmandu <br>
+                    <strong> Email: </strong> <a href="mailto:brianix54@gmail.com">khanalsekhar13@gmail.com</a> <br>
+                    <strong> Phone: </strong><a href="tel:0452653600">9860848510</a><br>
+                    <strong> ABN: </strong> 123456<br>
                 </p>
             </div>
 
